@@ -1,0 +1,7 @@
+[submodule "my_blog/public"]
+	path = my_blog/public
+	url = https://github.com/liyun95/liyun95.github.io.git
+	branch = main
+[submodule "my_blog/my_blog/themes/DoIt"]
+	path = my_blog/my_blog/themes/DoIt
+	url = https://github.com/HEIGE-PCloud/DoIt.git
