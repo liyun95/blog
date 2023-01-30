@@ -6,22 +6,21 @@ authors: [liyun]
 description: ""
 tags: [life]
 categories: []
-
 ---
 
 In many ways, 2022 seemed like an extension of 2021 — the stories all too familiar, only now with added intensity and uncertainty. COVID-19 curbs got harsher. The climate crisis became worse. Episodes of violence against women more shocking. But a cute Olympics mascot, a handful of remarkable performances by female athletes, and the metaverse bubble served as welcome distractions. For me, personally, the year 2022 might look and feel a bit different.
 
 ## Work
 
-In May, 2022, I left my previous job as a translator as I found that translating tech documentation was quite passive and it had limited value to improve my tech skills since I was forced to deal with the texts of all types, from storage to databases, and to containers. However, as a language graduate with little specialization, I could hardly deep dive into a specific field due to lack of underlying knowledge. That’s basically the reason why I decided to change my job and started to work for the current startup as a technical writer.
+In May, 2022, I left my previous job as a translator as I found translating tech doc made me passive and it had limited value to improve my tech skills since I was forced to deal with the texts of all types, from storage to databases, and to containers. This might be helpful if my goal was to become a generalist. However, as a language student specialized in zero, I seek to become a T-shaped talent who deep dives into a specific field first and also has basic knowledge in other fields. That’s basically the reason why I decided to change my job and started to work for the current startup as a technical writer.
 
-Of course, I encountered a handful of challenges and uncertainties in the new position. For example, when I first came to the company, I didn’t know what git was, how to manage content and collaborate with other colleagues using PRs, what documentation as code was, etc. Besides, the management of my current company has big differences from my previous one. This startup provides me with a platform to try something out of the box but also forces me to start from scratch.
+Of course, I encountered a handful of challenges and uncertainties in the new position. For example, when I first came to the company, I didn’t know what git was, how to manage content and collaborate with other colleagues using PRs, what documentation as code was, and let alone how HTML, CSS, JS work. Besides, the management of my current company has big differences from my previous one. This startup provides me with a platform to try something out of the box but also forces me to start from scratch.
 
 ## Life and growth
 
-In 2022, despite COVID-19 and lockdowns, I still travelled several times, most of which were side trips. For the new year, the softening of the COVID-19 control strategies indicates more opportunities to go overseas. In this case, I expect to travel overseas at least once this year!
+In 2022, despite COVID-19 and lockdowns, I travelled several times, most of which were side trips. For the new year, the softening of the COVID-19 control strategies indicates more opportunities to go overseas. So, I expect to travel overseas at least once this year!
 
-For personal development, in 2023, I’ll make plans to equip myself with more tech skills. Of course, learning new skills takes courage. We must be willing to be a beginner, to experience the awkwardness of not knowing how things work. We are wired to seek comfort and avoid failure. It may seem counterintuitive, but I believe that the faster you fail, adjust and try again, the faster you succeed.
+For personal development, in 2023, I’ll make plans to equip myself with more tech skills. Of course, learning new skills takes courage, and I'm willing to be a beginner, to experience the awkwardness of not knowing how things work. We are wired to seek comfort and avoid failure. It may seem counterintuitive, but I believe that the faster you fail, adjust and try again, the faster you succeed.
 
 Here, I'll list my professional plans for 2023:
 - Set up my personal GitHub Pages
